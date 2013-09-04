@@ -1,6 +1,6 @@
 === Contact Form 7 minlength extension ===
 Contributors: Tussendoor internet & marketing 
-Tags: tussendoor, contact, form, 7, min, length, minlength
+Tags: tussendoor, contact, form, 7, min, length, validation, minlength
 Requires at least: 3.0
 Tested up to: 3.4
 Stable tag: 1.0.1
