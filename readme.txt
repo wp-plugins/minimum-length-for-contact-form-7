@@ -2,7 +2,7 @@
 Contributors: Tussendoor internet & marketing 
 Tags: tussendoor, contact, form, 7, min, length, validation, minlength
 Requires at least: 3.0
-Tested up to: 3.4
+Tested up to: 3.6
 Stable tag: 1.0.1
 
 Extension to enable min-length on textfield(s) in Contact Form 7
