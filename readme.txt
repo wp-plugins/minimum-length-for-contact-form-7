@@ -9,9 +9,9 @@ Extension to enable min-length on textfield(s) in Contact Form 7
 
 == Description ==
 
-This Contact Form 7 extensions gives you the ability to add a minimum length to Contact Form 7 textfields. By default CF7 gives you the option to add a maxlength and to make a field required, but that's it. By Activating this plugin you will have the option to add a minimum length to fields, within the normal Contact Form 7 screen (check screenshots). 
+This Contact Form 7 extension gives you the ability to add a minimum length to Contact Form 7 textfields and textareas. By default CF7 gives you the option to add a maxlength and to make a field required, but that's it. By Activating this plugin you will also have the option to add a minimum length to fields, within the normal Contact Form 7 screen (check screenshots). 
 
-No options ore other setup is needed. Just install, activate en your good to go. For more information, check the screenshots. 
+No options or other setup is needed. Just install, activate and you're good to go. For more information, check the screenshots. 
 
 == Installation ==
 
