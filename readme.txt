@@ -2,8 +2,8 @@
 Contributors: Tussendoor internet & marketing 
 Tags: tussendoor, contact, form, 7, min, length, validation, minlength
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 1.3.1
+Tested up to: 3.9
+Stable tag: 1.3.3
 
 Extension to enable min-length on textfield(s) in Contact Form 7
 
@@ -28,6 +28,10 @@ For details look the first screenshot in the next tab
 3. Show error notice like normal contact form 7 notices
 
 == Changelog ==
+
+= 1.3.3 =
+*	Added support for WordPress 3.9
+*	Bugfixes
 
 = 1.3.1 =
 *	Fixed compatibility issues with older versions of PHP
