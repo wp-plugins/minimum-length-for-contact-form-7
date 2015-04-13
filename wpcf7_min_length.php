@@ -3,10 +3,10 @@
 Plugin Name: Contact Form 7 - Minlength Text Extension
 Plugin URI: http://wordpress.org/plugins/minimum-length-for-contact-form-7/
 Description: Add (required) minimum length to textfields in Contact Form 7.
-Version: 1.3.4
+Version: 1.3.5
 Author: Tussendoor internet & marketing
 Author URI: http://tussendoor.nl
-Tested up to: 3.9
+Tested up to: 4.2
 */
 
 require_once('wpcf7_min_text.php');
